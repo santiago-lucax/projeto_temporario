@@ -1,3 +1,5 @@
+//Teste
+
 let numerosSorteados = [];
 let tentativas = 1;
 let restart = document.querySelector('#reiniciar');
